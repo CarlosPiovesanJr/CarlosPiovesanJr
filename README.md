@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou Carlos!
 
-<!--
-**CarlosPiovesanJr/CarlosPiovesanJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Sobre mim
 
-Here are some ideas to get you started:
+Sou um entusiasta de tecnologia com 26 anos, que começou a estudar programação há um ano. Sou apaixonado por aprender e resolver problemas, e atualmente trabalho como suporte técnico em uma software house. Meu sonho é trabalhar como desenvolvedor e estou sempre buscando maneiras de melhorar minhas habilidades e expandir meu conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Habilidades
+
+Linguagens de programação: HTML, JavaScript, CSS
+Frameworks: React
+Banco de dados: MySQL, Firebase
+Ferramentas: Git, VSCode
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carlospiovesanjr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+Se você estiver interessado em conversar, sinta-se à vontade para entrar em contato comigo pelo meu e-mail carlospiovesanjr@gmail.com.
+
+Obrigado por visitar meu perfil no Github!
