@@ -11,7 +11,7 @@ Frameworks: React
 Banco de dados: MySQL, Firebase
 Ferramentas: Git, VSCode
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carlospiovesanjr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?CarlosPiovesanJr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Se você estiver interessado em conversar, sinta-se à vontade para entrar em contato comigo pelo meu e-mail carlospiovesanjr@gmail.com.
 
