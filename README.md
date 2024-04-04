@@ -2,7 +2,7 @@
 
 #### Sobre mim 👨🏻
 
-Sou um entusiasta de tecnologia com 26 anos, que começou a estudar programação há um ano. Sou apaixonado por aprender e resolver problemas, e atualmente trabalho como suporte técnico em uma software house. Meu sonho é trabalhar como desenvolvedor e estou sempre buscando maneiras de melhorar minhas habilidades e expandir meu conhecimento.
+Sou um entusiasta de tecnologia com 27 anos, que começou a estudar programação há um ano. Sou apaixonado por aprender e resolver problemas, e atualmente trabalho como Analista de Produto em uma software house do Brasil. Meu sonho é trabalhar como desenvolvedor e estou sempre buscando maneiras de melhorar minhas habilidades e expandir meu conhecimento.
 
 
 
