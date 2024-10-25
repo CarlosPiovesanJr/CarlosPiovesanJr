@@ -2,8 +2,11 @@
 
 #### Sobre mim 👨🏻
 
-Sou um entusiasta de tecnologia com 27 anos, que começou a estudar programação há um ano. Sou apaixonado por aprender e resolver problemas, e atualmente trabalho como Analista de Produto em uma software house do Brasil. Meu sonho é trabalhar como desenvolvedor e estou sempre buscando maneiras de melhorar minhas habilidades e expandir meu conhecimento.
+💻 Entusiasta de tecnologia e apaixonado por resolver problemas através da programação. Com 28 anos, iniciei minha jornada no desenvolvimento há um ano e, desde então, tenho me dedicado a aprimorar minhas habilidades e expandir meu conhecimento.
 
+🎯 Atualmente, atuo como Analista de Produto em uma software house no Brasil, onde tenho a oportunidade de conectar as necessidades dos usuários com soluções de tecnologia.
+
+🚀 Meu objetivo é crescer como desenvolvedor, transformando ideias em projetos reais e impactantes. Sempre em busca de novos desafios e aprendizados no universo do desenvolvimento.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospiovesanjr&show_icons=true&theme=swift)
