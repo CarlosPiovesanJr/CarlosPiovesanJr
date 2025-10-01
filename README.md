@@ -2,9 +2,9 @@
 
 #### Sobre mim 👨🏻
 
-💻 Entusiasta de tecnologia e apaixonado por resolver problemas através da programação. Com 28 anos, iniciei minha jornada no desenvolvimento há um ano e, desde então, tenho me dedicado a aprimorar minhas habilidades e expandir meu conhecimento.
+💻 Entusiasta de tecnologia e apaixonado por resolver problemas através da programação. Com 29 anos, iniciei minha jornada no desenvolvimento há um ano e, desde então, tenho me dedicado a aprimorar minhas habilidades e expandir meu conhecimento.
 
-🎯 Atualmente, atuo como Analista de Produto em uma software house no Brasil, onde tenho a oportunidade de conectar as necessidades dos usuários com soluções de tecnologia.
+🎯 Atualmente, atuo como Analista de Qualidade na Clint, onde tenho a oportunidade de garantir a excelência das soluções tecnológicas e contribuir para a entrega de produtos de alta qualidade.
 
 🚀 Meu objetivo é crescer como desenvolvedor, transformando ideias em projetos reais e impactantes. Sempre em busca de novos desafios e aprendizados no universo do desenvolvimento.
 
