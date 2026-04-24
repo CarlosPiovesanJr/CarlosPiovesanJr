@@ -56,6 +56,6 @@ QA Engineer na **Clint** construindo ferramentas full‑stack e integrando IA ao
 #### Contato
 
 📧 [carlospiovesanjr@gmail.com](mailto:carlospiovesanjr@gmail.com)  
-💼 [LinkedIn]([https://www.linkedin.com/in/carlospiovesanjr](https://www.linkedin.com/in/carlos-piovesan-jr-7ab4633ba/))
+💼 [LinkedIn](https://www.linkedin.com/in/carlos-piovesan-jr-7ab4633ba/)
 
 Obrigado por passar por aqui! 🚀
