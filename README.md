@@ -12,13 +12,12 @@ QA Engineer na **Clint** construindo ferramentas full‑stack e integrando IA ao
 
 🤖 Uso **Claude** e **Claude Code** como peças centrais do meu workflow, acelerando desde a geração de cenários de teste até a implementação de features completas.
 
-🎮 Fora do código: time 9 do Clint FC, League of Legends com os amigos, e um projeto de vida chamado Micheli.
+🎮 Fora do código: Futebol, League of Legends com os brothers, e um projeto de vida chamado Micheli.
 
 ---
 
 #### Em que estou trabalhando
 
-🚢 **[Siscomex](https://github.com/carlospiovesanjr)** — Sistema de gestão de processos para uma empresa de comércio exterior (co‑fundador)  
 💪 **FitCouple** — PWA para casais acompanharem treino, alimentação, finanças e suplementos juntos  
 🧰 Ferramentas internas na Clint: dashboards de squad, automações WABA, debug tools para Meta Graph API
 
